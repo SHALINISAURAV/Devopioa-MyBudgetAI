@@ -99,7 +99,7 @@ with st.sidebar:
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
     
     # Configure Gemini API
-    api_key = "AIzaSyBZ1TtGYIPtA5k6ru29-KqKEDmOe4qpCow"
+    api_key = "paste your API_key"
     if api_key:
         try:
             genai.configure(api_key=api_key)
@@ -939,4 +939,5 @@ else:
         st.session_state.df = sample_df
         
         st.success("Sample data loaded successfully! Explore the features above.")
+
         st.experimental_rerun()
