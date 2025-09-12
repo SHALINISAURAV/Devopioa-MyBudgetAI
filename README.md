@@ -22,7 +22,7 @@ People often struggle to track expenses, identify spending patterns, and predict
 - Designed **Visual Dashboards** for financial insights.  
 
 ## 🎥 Demo Video
-Watch the demo here: [Video Link](https://youtube.com/your-video)
+Watch the demo here: [Video Link](https://drive.google.com/file/d/1dFmUvdpgS5EiFnph0WhPNSXr9WJfqO8W/view?usp=share_link)
 
 ![Demo Screenshot](docs/demo.gif)
 
@@ -40,8 +40,7 @@ _Add your UI/dashboard screenshots here_
 - Voice-based AI assistant for financial queries.  
 
 ## 🤝 Contributors
-- **Your Name** – AI/ML Developer  
-- **Team Members (if any)**  
+- **SHALINI SAURAV** – AI/ML Developer  
 
 ## 🏆 Hackathon
 Built during **Dell Hackathon 2025** as part of **Devopioa 2.0**.
