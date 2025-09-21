@@ -27,9 +27,9 @@ Watch the demo here: [Video Link](https://drive.google.com/file/d/1dFmUvdpgS5EiF
 ![Demo Screenshot](docs/demo.gif)
 
 ## 🧑‍💻 Tech Stack
-- **Backend / AI**: Python, SpaCy, TensorFlow  
+- **Backend / AI**: Python, SpaCy, Gemini, TensorFlow  
 - **Frontend**: React.js (or Vue.js)  
-- **Visualization**: Chart.js / D3.js / Matplotlib  
+- **Visualization**: Chart.js / plotly / Matplotlib  
 
 ## 📸 Screenshots
 _Add your UI/dashboard screenshots here_
