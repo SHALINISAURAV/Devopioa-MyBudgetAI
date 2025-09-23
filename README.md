@@ -31,9 +31,6 @@ Watch the demo here: [Video Link](https://drive.google.com/file/d/1dFmUvdpgS5EiF
 - **Frontend**: React.js (or Vue.js)  
 - **Visualization**: Chart.js / plotly / Matplotlib  
 
-## 📸 Screenshots
-_Add your UI/dashboard screenshots here_
-
 ## 🔮 Future Scope
 - Multi-bank integration with secure APIs.  
 - Predictive analytics for upcoming expenses.  
