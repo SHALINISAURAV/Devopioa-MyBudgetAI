@@ -37,7 +37,7 @@ Watch the demo here: [Video Link](https://drive.google.com/file/d/1dFmUvdpgS5EiF
 - Voice-based AI assistant for financial queries.  
 
 ## 🤝 Contributors
-- **SHALINI SAURAV** – AI/ML Developer  
+- **SHALINI SAURAV** – ML Developer  
 
 ## 🏆 Hackathon
 Built during **Dell Hackathon 2025** as part of **Devopioa 2.0**.
